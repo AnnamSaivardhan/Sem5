@@ -1,0 +1,16 @@
+{
+  "file_name" : "uniform.txt",
+  "distribution" : "categorical",
+  "values": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "probs": [
+    0.2,
+    0.4,
+    0.1,
+    0.3
+  ]
+}

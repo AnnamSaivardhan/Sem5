@@ -1,0 +1,5 @@
+{
+  "file_name" : "uniform.txt",
+  "distribution" : "exponential",
+  "lambda": 2
+}
